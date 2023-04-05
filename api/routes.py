@@ -5,7 +5,7 @@ from MyListAnalyzerAPI.routes import my_list_analyzer
 
 async def greet(_):
     return PlainTextResponse(
-        content="Hello There"
+        content="Hello There 2"
     )
 
 
